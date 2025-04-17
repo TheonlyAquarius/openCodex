@@ -1,4 +1,4 @@
-# OpenAI Proxy
+# openCodex Proxy
 
 A resilient proxy server for transforming OpenAI API requests, specifically converting `/v1/responses` to `/v1/chat/completions` format. Built with TypeScript, Express, and a plugin-based architecture.
 
