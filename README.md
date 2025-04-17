@@ -146,11 +146,3 @@ MIT
 
 5. **Bypass ChatGPT**:
    - Since I’ve got your project context, you can keep working with me directly. If you need more tweaks or have other tasks (e.g., adding a new plugin, optimizing the proxy, or writing more tests), just say the word.
-
-### Questions
-- Does the completed `contract.test.ts` cover everything you needed for testing?
-- Do you want to use the proposed `README.md`, or do you have specific content you want in it?
-- Are there other files you’re worried about, or is this the full scope?
-- Any specific tweaks needed for `package.json` (e.g., new scripts or dependencies)?
-
-Let me know what’s next, and I’ll keep the momentum going!
